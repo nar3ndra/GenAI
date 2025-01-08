@@ -1,0 +1,3 @@
+#to add remote repo
+git remote add origin <REMOTE_URL>
+git remote -v #to verify the remote connection
