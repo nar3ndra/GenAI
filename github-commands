@@ -1,3 +1,14 @@
 #to add remote repo
 git remote add origin <REMOTE_URL>
 git remote -v #to verify the remote connection
+
+
+git push -u origin main
+Set the upstream branch: The -u option sets the upstream branch, so future git push and git pull commands will automatically use origin main
+
+You can confirm the upstream branch with:
+git branch -vv
+
+
+# to check the git current branch
+git branch
