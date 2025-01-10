@@ -1,0 +1,11 @@
+conda install numpy pandas matplotlib
+
+
+
+# For a requirements.txt:
+conda install --file requirements.txt
+
+
+# For a environment.yml:
+conda env update --file environment.yml
+

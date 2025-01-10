@@ -1,1 +1,8 @@
 ipykernel
+langchain_google_genai
+decouple
+dotenv
+langchain-openai
+langchain
+langchain_ollama
+streamlit
